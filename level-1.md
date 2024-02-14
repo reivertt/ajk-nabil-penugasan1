@@ -4,22 +4,24 @@ oleh Muhammad Nabil Akhtar Raya Amoriza
 
 ## Daftar Isi
 - [Soal 1](#soal-1)
- - [a. Membuat sebuah repository](#a-membuat-sebuah-repository)
- - [b. Membuat sebuah remote repository](#b-membuat-sebuah-remote-repository)
- - [c. Menghubungkan local dan remote repository](#c-menghubungkan-local-dan-remote-repository)
- - [d. Melakukan Perubahan](#d-melakukan-perubahan)
+  - [a. Membuat sebuah repository](#a-membuat-sebuah-repository)
+  - [b. Membuat sebuah remote repository](#b-membuat-sebuah-remote-repository)
+  - [c. Menghubungkan local dan remote repository](#c-menghubungkan-local-dan-remote-repository)
+  - [d. Melakukan Perubahan](#d-melakukan-perubahan)
 - [Soal 2](#soal-2)
- - [a. Introduction](#a-introduction)
- - [b. Branching](#b-branching)
- - [c. Merging Branches (ft. Soal 5)](#c-merging-branches-soal-5-nyelak)
+  - [a. Introduction](#a-introduction)
+  - [b. Branching](#b-branching)
+  - [c. Merging Branches (ft. Soal 5)](#c-merging-branches-soal-5-nyelak)
 - [Soal 3](#soal-3)
- - [a. Git Stash](#a-git-stash)
- - [b. Git Reset](#b-git-reset)
- - [c. Git Push (ft. Git Stash Pop)](#c-git-push-ft-git-stash-pop)
- - [d. Git Diff](#d-git-diff)
- - [e. Git Merge](#e-git-merge)
- - [f. Git Pull (ft. Soal 4)](#f-git-pull-soal-4-nyelak)
+  - [a. Git Stash](#a-git-stash)
+  - [b. Git Reset](#b-git-reset)
+  - [c. Git Push (ft. Git Stash Pop)](#c-git-push-ft-git-stash-pop)
+  - [d. Git Diff](#d-git-diff)
+  - [e. Git Merge](#e-git-merge)
+  - [f. Git Pull (ft. Soal 4)](#f-git-pull-soal-4-nyelak)
 - [Kendala dan Kesulitan](#kendala-dan-kesulitan)
+
+</br>
 
 ## Soal 1
 
@@ -103,6 +105,8 @@ Menggunakan command `git log` kembali, perubahan dapat terlihat dengan munculnya
 
 ![img](https://cdn.discordapp.com/attachments/718028750503280671/1207234888743391242/image.png?ex=65dee81a&is=65cc731a&hm=02bd5250e2497b2189ec29eae8b186bef946d2d3fd91c8542c5d77b8bd47162d&)
 
+</br>
+
 ## Soal 2
 
 Branching dan juga studi kasus.
@@ -164,6 +168,8 @@ Waduh, ternyata pas dilihat branchnya udah ga keliatan dan langsung melakukan fa
 Untuk mundur dalam waktu, kita bisa menggunakan command `git reset <branch_id>` dan kemudian mengulang kembali. Hasilnya akan seperti berikut.
 
 ![img](https://cdn.discordapp.com/attachments/718028750503280671/1207261673266741278/ajk-6.png?ex=65df010c&is=65cc8c0c&hm=074fa92c7b7458867813f37b5135b5087050f414909c4f8ec360402402ced05c&)
+
+</br>
 
 ## Soal 3
 
@@ -264,6 +270,8 @@ Ternyata, ukuran font pada website terhitung terlalu besar. Oleh karena itu anda
 Setelah melakukan perubahan, anda dapat melihat line mana saja yang berubah dengan command `git diff`.
 
 ![img](https://cdn.discordapp.com/attachments/718028750503280671/1207344424049184849/image.png?ex=65df4e1e&is=65ccd91e&hm=9a56be021c7f2df8ab65724950b696ee9b621ebc37b5f436164a20041abd37bf&)
+
+</br>
 
 ## Kendala dan Kesulitan
 
