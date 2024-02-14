@@ -23,16 +23,16 @@ body {
 }
 
 h1 {
-    font-size: 15rem;
-    margin-bottom: 3rem;
+    font-size: 10rem;
+    margin-bottom: 2rem;
 }
 
-span {
-    font-size: 3rem;
-
+p {
+    font-size: 2rem;
+    margin-bottom: 1rem;
 }
 
 h3 {
-    font-size: 7rem;
+    font-size: 5rem;
     margin-top: 1rem;
 }
